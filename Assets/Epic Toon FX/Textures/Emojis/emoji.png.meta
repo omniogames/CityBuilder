@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: 14aecb70b8d9ce1479ef6f5770067aa2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8324426193648349985
+    second: emoj_0
+  - first:
+      213: -2401911484311364931
+    second: emoj_1
+  - first:
+      213: -2290035736625528476
+    second: emoj_2
+  - first:
+      213: 4283201380904598273
+    second: emoj_3
+  - first:
+      213: -8113948718270167701
+    second: emoj_4
+  - first:
+      213: -3064250590822834214
+    second: emoj_5
+  - first:
+      213: 8255107699352901062
+    second: emoj_6
+  - first:
+      213: 5258459954743044552
+    second: emoj_7
+  - first:
+      213: -5590626563163049360
+    second: emoj_8
+  - first:
+      213: -5496208248455465446
+    second: emoj_9
+  - first:
+      213: 1137863176020863022
+    second: emoj_10
+  - first:
+      213: -203665784324012402
+    second: emoj_11
+  - first:
+      213: 2747091860142116648
+    second: emoj_12
+  - first:
+      213: 6834630976397522982
+    second: emoj_13
+  - first:
+      213: 5916104105585941999
+    second: emoj_14
+  - first:
+      213: -8961965664784803656
+    second: emoj_15
+  - first:
+      213: 1165430155212634078
+    second: emoj_16
+  - first:
+      213: -5040683720900464263
+    second: emoj_17
+  - first:
+      213: 8468229347217898822
+    second: emoj_18
+  - first:
+      213: 1373900397317022992
+    second: emoj_19
+  - first:
+      213: 7760726288593137134
+    second: emoj_20
+  - first:
+      213: 7386867568512258067
+    second: emoj_21
+  - first:
+      213: -3936964785592367562
+    second: emoj_22
+  - first:
+      213: -6451397536633804347
+    second: emoj_23
+  - first:
+      213: -6411640768591211466
+    second: emoj_24
+  - first:
+      213: 1311604263849349060
+    second: emoj_25
+  - first:
+      213: 6949554565570456293
+    second: emoj_26
+  - first:
+      213: -2877391354999209783
+    second: emoj_27
+  - first:
+      213: -7429801432872908209
+    second: emoj_28
+  - first:
+      213: -6575386276517999315
+    second: emoj_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: emoj_0
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3175
+        width: 574
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2f16a55db69f04d862657971ee7938
+      internalID: 8324426193648349985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_1
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 3175
+        width: 574
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3b551b7a06f994fb81aac8d34800b5
+      internalID: -2401911484311364931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_2
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 3175
+        width: 574
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2bc9484d3b0eb439629ceb4ccdcf88
+      internalID: -2290035736625528476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_3
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 3175
+        width: 573
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83e59b3438889043868dccf94dfaaa3
+      internalID: 4283201380904598273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_4
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 3175
+        width: 574
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e9e1798b2bf20448b78769d635645b
+      internalID: -8113948718270167701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_5
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 3175
+        width: 574
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81ac0c26a1d625448b768fb7ad3cea9
+      internalID: -3064250590822834214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2448
+        width: 574
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557e8ecf7cbfa6e4dafd8b75558db95f
+      internalID: 8255107699352901062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_7
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2448
+        width: 574
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faadeaef6a037249b9d3ec2d3a35c5d
+      internalID: 5258459954743044552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_8
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2448
+        width: 574
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02436b94b1509cf4fbd8a2b0a30b5606
+      internalID: -5590626563163049360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_9
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 2448
+        width: 608
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86d0b4d0d8930245ac7610b3b5f976b
+      internalID: -5496208248455465446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_10
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 2448
+        width: 574
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22522130e075b744a7dfe85903f0a4f
+      internalID: 1137863176020863022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_11
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 2448
+        width: 674
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46603c98d139e6e40866d352a0925a30
+      internalID: -203665784324012402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1722
+        width: 574
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60f036a92626f14a970791878b4e0fb
+      internalID: 2747091860142116648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_13
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1722
+        width: 620
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e97ddecadef4047953f754aca3e95d
+      internalID: 6834630976397522982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_14
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1722
+        width: 574
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f3fb6fe7db94844a071655dd67ff37
+      internalID: 5916104105585941999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_15
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1722
+        width: 573
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012d538887fdfb047a840484ebfeb8d8
+      internalID: -8961965664784803656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_16
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 1721
+        width: 575
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e421f7973b63304a8c937ecdf1b6e5e
+      internalID: 1165430155212634078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_17
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 1722
+        width: 574
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e2f538819a79942b56c920f5cfc4f1
+      internalID: -5040683720900464263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 995
+        width: 574
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000462f7f00ff76408dfa4b5f1622b5f
+      internalID: 8468229347217898822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_19
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 995
+        width: 574
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5090e559301203b49b5e22b54457d7c5
+      internalID: 1373900397317022992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_20
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 995
+        width: 579
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a08ad7b6bc3a1418e407629b8e034f
+      internalID: 7760726288593137134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_21
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 995
+        width: 573
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2137cc55acbd5b846af8bbd3dea95d45
+      internalID: 7386867568512258067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_22
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 995
+        width: 574
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5289fee7ad04b684cb0925517e573372
+      internalID: -3936964785592367562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_23
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 995
+        width: 575
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa76f6375d344a4c9b750cf8db30574
+      internalID: -6451397536633804347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_24
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 241
+        width: 574
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaafb51d75edc904e9a1963008a0e113
+      internalID: -6411640768591211466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_25
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 241
+        width: 574
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1bf8d865766764c81cf9b148d8276c
+      internalID: 1311604263849349060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_26
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 241
+        width: 574
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef92fafd8b731654594a13e8cbf895df
+      internalID: 6949554565570456293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_27
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 241
+        width: 575
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a9304ba55b5844d9645957aad634cf
+      internalID: -2877391354999209783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_28
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 241
+        width: 574
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22a95720d29fe0489998fbcd3e15188
+      internalID: -7429801432872908209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emoj_29
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 241
+        width: 575
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fe49210cb343f4b917c615f6ee3f78
+      internalID: -6575386276517999315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a6eb78a58811a3448ab1ed5323efe460
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

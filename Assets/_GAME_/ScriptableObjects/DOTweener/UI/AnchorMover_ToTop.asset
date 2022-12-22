@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfefa3866b46248a3b741f9ca2315fd8, type: 3}
+  m_Name: AnchorMover_ToTop
+  m_EditorClassIdentifier: 
+  Delay: 0
+  Ease: 2
+  LoopCount: 0
+  LoopType: 0
+  Duration: 0.5
+  TargetPosition:
+    ToType: 2
+    x: 0
+    y: 1250
+  Type: 0
+  Vibrato: 10
+  Elasticity: 1
+  Randomness: 90
+  Fadeout: 1
+  From: 0
+  SetFromPosition: 0
+  FromPosition: {x: 0, y: 0}
+  SnapValues: 0

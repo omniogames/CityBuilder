@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a0e98cfad924a4bb583ad351593e319b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: National Park
+  fontNames:
+  - National Park
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70e9d42b0b36941c4bf96b6d5b64537a, type: 3}
+  - {fileID: 12800000, guid: 17b6c39fc6fa14a0a86b556071dd2aed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

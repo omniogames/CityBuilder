@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4089456b12342242883871f1f3b3cc7, type: 3}
+  m_Name: ExampleLevel
+  m_EditorClassIdentifier: 
+  LevelFacade: {fileID: 6624084847039726739, guid: 5779ae3f9736a4f9481b3a219d702a66,
+    type: 3}
+  LightingSettings: {fileID: 11400000, guid: 2ad15a40d80af4fa7858e52a422c64cd, type: 2}
